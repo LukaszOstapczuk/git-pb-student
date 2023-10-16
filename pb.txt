@@ -1,5 +1,6 @@
 Tekst 1
 Tekst 2
-Tekst 3
+Edycja 3
 Tekst 4
 Tekst 5
+Nowy tekst 6
